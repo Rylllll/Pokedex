@@ -21,7 +21,8 @@ module.exports = {
  },
 
   width: {
-    custom: '600px'
+    custom: '600px',
+    box:'400px'
   },
   height: {
     custom: '550px',
